@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.parquet
+*.zip
+*.pdf
+output/
+.env
+data/
