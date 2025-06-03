@@ -1,0 +1,8 @@
+streamlit
+polars
+duckdb
+nltk
+fpdf
+matplotlib
+seaborn
+pandas
